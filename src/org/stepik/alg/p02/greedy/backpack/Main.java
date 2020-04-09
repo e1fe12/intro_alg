@@ -3,7 +3,6 @@ package org.stepik.alg.p02.greedy.backpack;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.Scanner;
 
 public class Main {

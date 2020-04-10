@@ -1,4 +1,4 @@
-package org.stepik.alg.p03;
+package org.stepik.alg.p03.binsearch;
 
 import java.io.File;
 import java.io.FileNotFoundException;

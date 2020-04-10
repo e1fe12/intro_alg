@@ -12,7 +12,7 @@ public class Main {
         int l = 0;
         int r = a.length;
         while (l + 1 < r){
-            int mid = (l + r) / 2;
+            int mid = l + (r - l) / 2;
             if (a[mid] <= k){
                 l = mid;
             } else {
